@@ -18,7 +18,7 @@ import org.testng.annotations.AfterMethod;
 import org.testng.annotations.Test;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 12/30/2022
  **/
 @Epic ("Rest Assured POC - Example Tests")

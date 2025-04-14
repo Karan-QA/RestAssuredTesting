@@ -5,7 +5,7 @@ import java.net.URISyntaxException;
 import java.net.URL;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 1/3/2023
  **/
 public class FileReader {

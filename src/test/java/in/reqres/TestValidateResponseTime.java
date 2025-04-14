@@ -13,7 +13,7 @@ import org.hamcrest.Matchers;
 import org.testng.annotations.Test;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 12/21/2022
  **/
 @Epic ("Rest Assured POC - Example Tests")

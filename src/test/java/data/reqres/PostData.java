@@ -1,4 +1,4 @@
-/*      Copyright 2022 Mohammad Faisal Khatri
+/*      Copyright 2022 Mohammad Karan Arora
         Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
         You may obtain a copy of the License at
@@ -16,7 +16,7 @@ import lombok.Getter;
 import lombok.Setter;
 
 /**
- * Created By Faisal Khatri on 19-11-2021
+ * Created By Karan Arora on 19-11-2021
  */
 @Getter
 @Setter
@@ -26,7 +26,7 @@ public class PostData {
     private final String job;
 
     /**
-     * Created By Faisal Khatri on 19-11-2021
+     * Created By Karan Arora on 19-11-2021
      *
      * @param name - mandatory field for post request
      * @param job - mandatory field for post request

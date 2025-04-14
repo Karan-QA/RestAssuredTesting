@@ -1,4 +1,4 @@
-/*      Copyright 2022 Mohammad Faisal Khatri
+/*      Copyright 2022 Mohammad Karan Arora
 
         Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
@@ -25,7 +25,7 @@ import org.testng.ITestListener;
 import org.testng.ITestResult;
 
 /**
- * Created By Faisal Khatri on 19-11-2021
+ * Created By Karan Arora on 19-11-2021
  */
 
 public class TestListener implements ITestListener {

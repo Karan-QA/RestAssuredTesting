@@ -14,7 +14,7 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 1/10/2023
  **/
 public class AuthenticationTests {

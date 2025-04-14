@@ -1,4 +1,4 @@
-/*      Copyright 2022 Mohammad Faisal Khatri
+/*      Copyright 2022 Mohammad Karan Arora
 
         Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
@@ -36,7 +36,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 /**
- * Created By Faisal Khatri on 20-11-2021
+ * Created By Karan Arora on 20-11-2021
  */
 @Epic ("Rest Assured POC - Example Tests")
 @Feature ("Performing different API Tests using Rest-Assured")
@@ -47,7 +47,7 @@ public class TestPutRequests {
     private static final String URL = "https://reqres.in";
 
     /**
-     * Created By Faisal Khatri on 20-11-2021
+     * Created By Karan Arora on 20-11-2021
      *
      * @return test data for put requests
      */
@@ -60,7 +60,7 @@ public class TestPutRequests {
     }
 
     /**
-     * Created By Faisal Khatri on 20-11-2021 Executing Put Request using Rest Assured.
+     * Created By Karan Arora on 20-11-2021 Executing Put Request using Rest Assured.
      *
      * @param id
      * @param name

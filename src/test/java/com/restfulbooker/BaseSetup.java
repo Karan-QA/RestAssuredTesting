@@ -12,7 +12,7 @@ import io.restassured.specification.ResponseSpecification;
 import org.testng.annotations.BeforeClass;
 
 /**
- * Created By Faisal Khatri on 18-02-2022
+ * Created By Karan Arora on 13-04-2025
  */
 public class BaseSetup {
 
@@ -20,7 +20,8 @@ public class BaseSetup {
     public void setup () {
 
         RequestSpecification requestSpecification = new RequestSpecBuilder ().setBaseUri (
-                "http://localhost:3001")
+                "http://restful-booker.herokuapp.com")
+//        		http://localhost:3001
             .addHeader ("Content-Type", "application/json")
             .addHeader ("Accept", "application/json")
             .addFilter (new RequestLoggingFilter ())

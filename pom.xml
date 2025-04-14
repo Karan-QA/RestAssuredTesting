@@ -14,7 +14,7 @@
         <rest-assured.version>5.5.1</rest-assured.version>
         <hamcrest-all.version>1.3</hamcrest-all.version>
         <json-simple.version>1.1.1</json-simple.version>
-        <lombok.version>1.18.36</lombok.version>
+        <lombok.version>1.18.30</lombok.version>
         <jackson-databind.version>2.18.3</jackson-databind.version>
         <org-json.verion>20250107</org-json.verion>
         <data-faker.version>2.4.2</data-faker.version>
@@ -24,7 +24,7 @@
         <allure.version>2.29.0</allure.version>
         <awaitility.version>4.3.0</awaitility.version>
         <commons-lang3.version>3.17.0</commons-lang3.version>
-        <aspectj.version>1.9.23</aspectj.version>
+        <aspectj.version>1.9.7</aspectj.version>
         <maven-compiler-plugin.version>3.14.0</maven-compiler-plugin.version>
         <maven-surefire-plugin.version>3.5.2</maven-surefire-plugin.version>
         <maven-enforcer.version>3.5.0</maven-enforcer.version>

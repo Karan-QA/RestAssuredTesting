@@ -22,7 +22,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
 /**
- * Created By Faisal Khatri on 18-02-2022
+ * Created By Karan Arora on 13-04-2025
  */
 @Epic("Rest Assured POC - Example Tests")
 @Feature("Writing End to End tests using rest-assured")

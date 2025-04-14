@@ -1,4 +1,4 @@
-/*      Copyright 2022 Mohammad Faisal Khatri
+/*      Copyright 2022 Mohammad Karan Arora
 
         Licensed under the Apache License, Version 2.0 (the "License");
         you may not use this file except in compliance with the License.
@@ -31,7 +31,7 @@ import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
 
 /**
- * Created By Faisal Khatri on 20-11-2021
+ * Created By Karan Arora on 20-11-2021
  */
 @Epic ("Rest Assured POC - Example Tests")
 @Feature ("Performing different API Tests using Rest-Assured")
@@ -40,7 +40,7 @@ public class TestDeleteRequests {
     private static final String URL = "https://reqres.in/api/users/";
 
     /**
-     * Created By Faisal Khatri on 20-11-2021
+     * Created By Karan Arora on 20-11-2021
      *
      * @return deleteUserData using rest assured
      */
@@ -52,7 +52,7 @@ public class TestDeleteRequests {
     }
 
     /**
-     * Executing delete requests using Rest-assured. Created By Faisal Khatri on 20-11-2021
+     * Executing delete requests using Rest-assured. Created By Karan Arora on 20-11-2021
      *
      * @param userId
      */

@@ -7,7 +7,7 @@ import org.awaitility.Awaitility;
 import org.testng.annotations.BeforeClass;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 12/27/2022
  **/
 public class AwaitilityBase {

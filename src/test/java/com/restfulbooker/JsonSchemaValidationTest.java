@@ -20,7 +20,7 @@ import io.restassured.module.jsv.JsonSchemaValidator;
 import org.testng.annotations.Test;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 8/24/2022
  **/
 @Epic("Rest Assured POC - Example Tests")

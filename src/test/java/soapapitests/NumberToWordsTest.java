@@ -15,7 +15,7 @@ import io.restassured.path.xml.config.XmlPathConfig;
 import org.testng.annotations.Test;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 8/28/2022
  **/
 @Epic ("Rest Assured POC - Example Tests")

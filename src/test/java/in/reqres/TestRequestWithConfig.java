@@ -12,7 +12,7 @@ import io.qameta.allure.Story;
 import org.testng.annotations.Test;
 
 /**
- * @author Faisal Khatri
+ * @author Karan Arora
  * @since 12/27/2022
  **/
 @Epic ("Rest Assured POC - Example Tests")

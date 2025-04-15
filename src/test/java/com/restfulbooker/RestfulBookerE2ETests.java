@@ -66,7 +66,7 @@ public class RestfulBookerE2ETests extends BaseSetup {
     @Story("End to End tests using rest-assured")
     @Step("Get a the newly created booking")
     public void getBookingTest() {
-    	System.out.println("----Booking id 1---");
+    	System.out.println("----Booking id 3---");
         given().get("/booking/" + bookingId)
                 .then()
                 .statusCode(200)
